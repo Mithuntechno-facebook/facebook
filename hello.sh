@@ -1,7 +1,4 @@
-echo This is from master branch
+HELLO
 
-echo "Hello good morning everyone"
-
-echo "Welcome to git bash demo..."
-
-echo Thank you
+ECHO
+ 
