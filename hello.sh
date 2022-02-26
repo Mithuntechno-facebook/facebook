@@ -1,5 +1,3 @@
-
-This is master 
 echo "Hello good morning everyone"
 echo "Show date"
 date
